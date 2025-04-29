@@ -1,4 +1,4 @@
-# Google Analytics User Behavior Analysis (BigQuery Project)
+# Google Analytics User Behavior Analysis
 
 ## Project Overview
 
