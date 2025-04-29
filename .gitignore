@@ -1,0 +1,26 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*.so
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Environment and secrets
+.env
+*.json
+*.sqlite3
+*.db
+
+# Mac system files
+.DS_Store
+
+# VSCode and other editor settings
+.vscode/
+.idea/
+
+# Logs
+*.log
+
+# Jupyter notebook metadata
+*.nbconvert.ipynb
